@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Lato&family=Lobster&family=Raleway&family=Merriweather:wght@900&display=swap');
 
+* {
+  transition: all ease-in 0.3s;
+}
+
 body {
   margin: 0;
   background-color: #fdefe6;
